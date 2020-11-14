@@ -1,0 +1,21 @@
+<style>
+    p {
+        text-align: justify;
+        font-size: 18pt;
+        color: blue;
+    } 
+
+    .intro-paragraph{
+    font-weight: bold; /* turn the weight of the text to bold*/
+    color: black; /* turn the color of the text to black*/
+    }
+ 
+    .last-paragraph{
+    font-style: italic; /* turn the style of the text to italic*/
+    color: black; /* turn the color of the text to black*/
+    }
+
+    h1 {
+        text-align: center;
+    }
+</style>
